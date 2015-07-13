@@ -16,3 +16,5 @@ As you move through the tutorial, each section has:
 * Explanation - details of what each step actually did.
 
 This app, the "Suggestotron", allows the user to create a topic, add details of that topic, and vote on each topic
+
+** Incidentally, during the creation of this app, I learned more about git and Github, and started getting into the habit of making regular commits after the "Creating a New Topic" step in the tutorial.
