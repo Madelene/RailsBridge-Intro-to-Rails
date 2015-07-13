@@ -10,6 +10,8 @@ As you move through the tutorial, each section has:
               + Read or show the records in the database
               + Update existing records
               + Destroy or delete records
+              
+        - I also learned a lot more about the MVC (Model, View, Controller) and what they do!
 
 * Steps - each step is explained in detail. 
 
